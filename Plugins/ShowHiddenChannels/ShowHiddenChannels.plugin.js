@@ -8,8 +8,8 @@
  * @donate https://www.paypal.me/MircoWittrien
  * @patreon https://www.patreon.com/MircoWittrien
  * @website https://mwittrien.github.io/
- * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/ShowHiddenChannels/
- * @updateUrl https://mwittrien.github.io/BetterDiscordAddons/Plugins/ShowHiddenChannels/ShowHiddenChannels.plugin.js
+ * @source https://github.com/Deanosim/BetterDiscordAddons/blob/ShowHiddenChannels/Plugins/ShowHiddenChannels/
+ * @updateUrl https://github.com/Deanosim/BetterDiscordAddons/blob/ShowHiddenChannels/Plugins/ShowHiddenChannels/ShowHiddenChannels.plugin.js
  */
 
 module.exports = (_ => {
